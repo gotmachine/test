@@ -1,6 +1,7 @@
-<img align="left" height="330" src="https://i.imgur.com/yBifOFW.png">
 
 ### Welcome to Kerbalism
+
+<img align="left" height="330" src="https://i.imgur.com/yBifOFW.png">
 
 ***Hundreds of Kerbals were killed in the making of this mod.***
 
