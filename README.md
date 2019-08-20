@@ -21,26 +21,6 @@
   </tr>
 </table>
 
-
-<p>
-<img align="left" height="350" src="https://i.imgur.com/yBifOFW.png">
-
-### Welcome to Kerbalism
-
-***Hundreds of Kerbals were killed in the making of this mod.***
-
-## Current version : 3.0.2 
-
-**Download** : **[Github releases]** - **[CKAN]**\
-**Docs** : **[Github wiki]**\
-**Support** : **[Discord]** - [Github issues] - [KSP forums thread]\
-**License** : [Unlicense] (public domain)\
-**KSP version** : 1.4.x to 1.7.x\
-**Requires** : [Module Manager], [CommunityResourcePack]\
-**[Mod compatibility]** - [Changelog] - [Dev Builds]
-</p>
-<p><br><br><br></p>
-
 ## Download and installation
 
 **Download on [Github releases] or use [CKAN]** 
