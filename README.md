@@ -1,6 +1,5 @@
-
- <p>
-<img align="left" height="330" src="https://i.imgur.com/yBifOFW.png">
+<p>
+<img align="left" height="350" src="https://i.imgur.com/yBifOFW.png">
 
 ### Welcome to Kerbalism
 
@@ -9,13 +8,14 @@
 ## Current version : 3.0.2 
 
 **Download** : **[Github releases]** - **[CKAN]**\
-**Docs and support** : **[Github wiki]** - **[Discord]** - [Github issues] - [KSP forums thread]\
+**Docs** : **[Github wiki]**\
+**Support** : **[Discord]** - [Github issues] - [KSP forums thread]\
 **License** : [Unlicense] (public domain)\
-**Requires** : KSP 1.4.x to 1.7.x , [Module Manager], [CommunityResourcePack]\
+**KSP version** : 1.4.x to 1.7.x\
+**Requires** : [Module Manager], [CommunityResourcePack]\
 **[Mod compatibility]** - [Changelog] - [Dev Builds]
-<br/><br/><br/>
 </p>
-
+<p><br><br><br></p>
 ## Download and installation
 
 **Download on [Github releases] or use [CKAN]** 
