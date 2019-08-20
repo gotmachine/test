@@ -1,7 +1,8 @@
 
-### Welcome to Kerbalism
-
+ <p>
 <img align="left" height="330" src="https://i.imgur.com/yBifOFW.png">
+
+### Welcome to Kerbalism
 
 ***Hundreds of Kerbals were killed in the making of this mod.***
 
@@ -13,7 +14,7 @@
 **Requires** : KSP 1.4.x to 1.7.x , [Module Manager], [CommunityResourcePack]\
 **[Mod compatibility]** - [Changelog] - [Dev Builds]
 <br/><br/><br/>
-
+</p>
 
 ## Download and installation
 
