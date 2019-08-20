@@ -16,6 +16,7 @@
 **[Mod compatibility]** - [Changelog] - [Dev Builds]
 </p>
 <p><br><br><br></p>
+
 ## Download and installation
 
 **Download on [Github releases] or use [CKAN]** 
